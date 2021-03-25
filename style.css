@@ -9,7 +9,7 @@
  Text Domain:  storefront
 */ 
 body {
-    background-color: grey;
+    background-color: #e6e6e6
 }
 .alpha, .beta, .delta, .gamma {
     color: white;
@@ -21,6 +21,10 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
     color: white;
+}
+
+.site-footer {
+    background-color: #303030;
 }
 /*body*/
 
