@@ -9,10 +9,19 @@
  Text Domain:  storefront
 */ 
 body {
-    background-color: blue;
+    background-color: grey;
+}
+.alpha, .beta, .delta, .gamma {
+    color: white;
 }
 
+h1, h2, h3, h4, h5, h6 {
+    color: white;
+}
 
+h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
+    color: white;
+}
 /*body*/
 
 /*nav*/
