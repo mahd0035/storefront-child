@@ -2,7 +2,7 @@
  Theme Name:   Storefront Child
  Description:  a child theme for stonefront
  Author:       hojak
- Template:     storefront
+ Template:     Storefront
  Version:      1.0.0
  License:      GNU General Public License v2 or later
  License URI:  http://www.gnu.org/licenses/gpl-2.0.html
@@ -11,7 +11,7 @@
 
 /*body*/
 body {
-    background-color: tomato;
+    background-color: thistle;
 }
 
 /*nav*/
