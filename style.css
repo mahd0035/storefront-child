@@ -46,4 +46,9 @@ h2{
     border-radius: 5px;
 }
 
+/*sale*/
+
+.wc-block-grid__product-onsale, .onsale {
+    border-color: yellow;
+}
 /*footer*/
