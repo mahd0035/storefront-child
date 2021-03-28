@@ -49,6 +49,7 @@ h2{
 /*sale*/
 
 .wc-block-grid__product-onsale, .onsale {
-    border-color: yellow;
+    background-color:  yellow;
+    color: black;
 }
 /*footer*/
