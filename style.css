@@ -34,12 +34,6 @@ h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
 /*body*/
 
 
-/*homepage image*/
-.forsidebillede{
-
-}
-
-
 /*nav*/
 
 /*header*/
@@ -68,13 +62,36 @@ h2{
     text-align: center; 
     margin-top: 15px;
 }
+
 /*sale*/
 
 .wc-block-grid__product-onsale, .onsale {
     background-color:  yellow;
     color: black;
 }
+
+.product type-product post-81 status-publish instock product_cat-uncategorized product_tag-gamers product_tag-gaming product_tag-plakat has-post-thumbnail sale shipping-taxable purchasable product-type-simple"{
+    margin-top: 5px;
+}
+
+
+.product:hover{
+    transform: scale(1.1);
+}
+
 /*footer*/
+
+
+/*kurv*/
+.button{
+    background-color: #303030;
+    color: white;
+
+}
+.button:hover{
+    background-color: black;
+    color: white;
+}
 
 
 
