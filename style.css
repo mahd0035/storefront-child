@@ -70,13 +70,13 @@ h2{
     color: black;
 }
 
-.product type-product post-81 status-publish instock product_cat-uncategorized product_tag-gamers product_tag-gaming product_tag-plakat has-post-thumbnail sale shipping-taxable purchasable product-type-simple"{
-    margin-top: 5px;
+
+.product{
+    transition: transform .3s; 
 }
 
-
 .product:hover{
-    transform: scale(1.1);
+    transform: scale(1.15);
 }
 
 /*footer*/
