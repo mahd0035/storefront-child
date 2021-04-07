@@ -46,6 +46,11 @@ h2{
     border-radius: 5px;
 }
 
+.forsideknap{
+    background-color: #0000;
+    border-radius: 5px;
+    color: #ffff;
+}
 /*sale*/
 
 .wc-block-grid__product-onsale, .onsale {
@@ -53,3 +58,7 @@ h2{
     color: black;
 }
 /*footer*/
+
+
+
+
