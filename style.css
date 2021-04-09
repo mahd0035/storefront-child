@@ -8,8 +8,13 @@
  License URI:  http://www.gnu.org/licenses/gpl-2.0.html
  Text Domain:  storefront
 */ 
+
+@import url('https://fonts.googleapis.com/css2?family=Exo+2:wght@100;400&display=swap'); 
+
 body {
-    background-color: #e6e6e6
+    background-color: #e6e6e6;
+    
+    
 }
 .alpha, .beta, .delta, .gamma {
     color: white;
@@ -30,6 +35,7 @@ h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
 
 /*body*/
 
+
 /*nav*/
 
 /*header*/
@@ -38,6 +44,18 @@ h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
 }
 h2{
     color: black;
+}
+
+h2 .alpha entry-title{
+    font-weight: bold;
+}
+
+.alpha entry-title{
+    text-align: center;
+}
+
+.entry-content p{
+    font-weight: bold;
 }
 /*icongraphy*/ 
 
@@ -48,10 +66,47 @@ h2{
     border-radius: 5px;
 }
 
+.forsideknap{
+    background-color: black; 
+    border-radius: 5px;
+    color: white;
+    text-decoration: none;
+    padding: 0.7em;
+    margin: 0 auto;
+    text-align: center; 
+    margin-top: 15px;
+}
+
 /*sale*/
 
 .wc-block-grid__product-onsale, .onsale {
     background-color:  yellow;
     color: black;
 }
+
+
+.product{
+    transition: transform .3s; 
+}
+
+.product:hover{
+    transform: scale(1.15);
+}
+
 /*footer*/
+
+
+/*kurv*/
+.button{
+    background-color: #303030;
+    color: white;
+
+}
+.button:hover{
+    background-color: black;
+    color: white;
+}
+
+
+
+
