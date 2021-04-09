@@ -43,6 +43,18 @@ h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
 h2{
     color: black;
 }
+
+h2 .alpha entry-title{
+    font-weight: bold;
+}
+
+.alpha entry-title{
+    text-align: center;
+}
+
+.entry-content p{
+    font-weight: bold;
+}
 /*icongraphy*/ 
 
 /*buttons*/
